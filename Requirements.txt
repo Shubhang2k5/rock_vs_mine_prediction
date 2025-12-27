@@ -1,0 +1,4 @@
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
